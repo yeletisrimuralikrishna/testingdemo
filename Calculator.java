@@ -7,12 +7,12 @@ public class demotest {
 		
 		//System.out.println("Just printing");
 		public void add() {
-			System.out.println(x+y);
+			System.out.println("Added value"+x+y);
 			//return x+y;
 		}
 		
 		public void mul() {
-			System.out.println(x*y);
+			System.out.println("Muliplied value"+x*y);
 		}
 		public static void main( String[] args )
 	    {
